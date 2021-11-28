@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+video{
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+h1{
+  font-family: "BPG Banner", sans-serif;
+    position: absolute;
+    top: 850px;
+    font-size: 20px;
+    animation-name: lukaa;
+    animation-duration: 50s;
+}
+
+@keyframes lukaa{
+  0%{color:#D28F08;}
+  20%{color: #0DCEE6;}
+  40%{color:#2AEC65;}
+  60%{color:#7E84FA;}
+  80%{color:#FF6C56;}
+  90%{color:#8B11D2;}
+  100%{color:#E93B3B;}
+}
+
+
+
+
+button{
+  position: relative;
+  top: -600px;
+  left: 150px;
+  margin-top: 60px;
+  width: 100px;
+  height: 50px;
+  border-radius: 50px;
+  font-family: 'Nanum Gothic', sans-serif;
+  background-image: linear-gradient(-90deg, #E0E0E0 0%, #DADDFF 47%, #AAAAAA 100%);
+  border-radius: 100px;
+  border: white;
+}
+
+button:hover{
+ transition: 0.8s;
+filter: none;
+cursor: pointer;
+outline: none;
+}
+
+.box1{
+  border: 2px dotted #E19E16;
+  height: 415px;
+  width: 395px;
+background-image:url(" 2365f3b2e0986e648bea0f19d0b596bd.png");
+background-size: cover;
+}
+
+p{
+  margin-top: 120px;
+  
+    font-family: "BPG Banner", sans-serif;
+}
+
+.lang{
+ position: relative;
+ top: 100px;
+ left: 100px;
+ padding: 5px;
+   color: blue;
+   box-shadow: 0px 0px 3px 2px red;
+}
+
+.box2{
+  position: relative;
+  top: -100px;
+}
+
+.text1{
+  position: relative;
+  top: 60px;
+  border: 2px dotted #E19E16;
+  height: 290px;
+  background-image:url("v546batch3-mynt-34-badgewatercolor_1.jpg");
+}
+
+.pro1{
+  position: relative;
+  top: 900px;
+}
+
+#bitt1{
+  position: relative;
+  width: 100px;
+  height: 50px;
+  border-radius: 50px;
+  font-family: 'Nanum Gothic', sans-serif;
+  background-image: linear-gradient(-90deg, #E0E0E0 0%, #DADDFF 47%, #AAAAAA 100%);
+  border-radius: 100px;
+  border: white;
+  top: 150px;
+  left: 140px;
+}
+
+.unna{
+  position: relative;
+  top: 100px;
+}
+
+.web{
+position: relative;
+top: 100px;
+border: 2px dotted #E19E16;
+height: 635px;
+background-image:url("v546batch3-mynt-34-badgewatercolor_1.jpg");
+}
+
+#dec{
+  margin: 0;
+  padding: 0;
+}
+
+.boy{
+  position: relative;
+  left: 100px;
+  border-radius: 100%;
+}
+
+h3{
+  font-family: "BPG Banner", sans-serif;
+}
+
+.backra1{
+  background-color: #000000A8;
+  position: relative;
+  top: 100px;
+}
+
+.face{
+  position: relative;
+  top: 3px;
+  float: left;
+}
+
+.insta{
+  position: relative;
+  top: 3px;
+  left: 20px;
+  left: -200px;
+  left: -230px;
+  left: -150px;
+  
+}
+
+.magic{
+  position: relative;
+  top: 60px;
+  left: 140px;
+text-decoration: none;
+letter-spacing: 10px;
+top: -20px;
+}
